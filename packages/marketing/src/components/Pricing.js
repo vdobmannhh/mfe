@@ -235,7 +235,7 @@ export default function Pricing() {
               <ul>
                 {footer.description.map((item) => (
                   <li key={item}>
-                    <Link href="#" variant="subtitle1" color="textSecondary">
+                    <Link href="packages/marketing/src/components#" variant="subtitle1" color="textSecondary">
                       {item}
                     </Link>
                   </li>
